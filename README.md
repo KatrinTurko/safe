@@ -9,7 +9,7 @@
 Safe PHP
 ========
 
-A set of core PHP functions rewritten to throw exceptions instead of returning `false` when an error is encountered.
+A set of core PHP functions rewritten to throw exceptions instead of returning `false` when an error is encountered
 
 ## The problem
 
